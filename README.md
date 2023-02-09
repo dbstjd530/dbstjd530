@@ -1,14 +1,12 @@
-<h1> Hi! My name is Yunseong Kim <br/> I am studying Data Engineering.  </h1>
+<h1> Hi! My name is YoonSung Kim </h1>
+Email : dbstjd530@naver.com
 
 <h2> I was involved in the project </h2>
 
-```
-yoonsung = {
-  code : [Python, SQL],
-  study : [Spark, AWS],
-  project : ["지능형해안감시체계 구축", "한국철강 전기로 조업 데이터 분석", "현대제철 전기로 조업 데이터 분석", "KAI KF-X Temperature"]
-  }
-```
+  - 지능형해안감시체계 구축 <br/>
+  - 한국철강 전기로 조업 데이터 분석<br/>
+  - 현대제철 전기로 조업 데이터 분석<br/> 
+  - KAI KF-X Temperature
 
 
 
