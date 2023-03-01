@@ -3,7 +3,7 @@ Email : dbstjd530@naver.com
 
 <h2> I was involved in the project </h2>
 
-  - 지능형해안감시체계 구축 <br/>
+  - 지능형해안감시체계 구축 (관련 논문 : https://kiss.kstudy.com/Detail/Ar?key=3933440)<br/>
   - 한국철강 전기로 조업 데이터 분석<br/>
   - 현대제철 전기로 조업 데이터 분석<br/> 
   - KAI KF-X Temperature
