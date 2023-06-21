@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0&height=250&section=header&text=YoonSung's%20GitHub&fontSize=70&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=YoonSung's%20GitHub&fontSize=70&animation=scaleIn)
 
 
 <h1> Hi! My name is YoonSung Kim </h1>
