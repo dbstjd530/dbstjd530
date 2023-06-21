@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hello%20I'm%20YoonSung&fontSize=90&rotate=30)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hello%20I'm%20YoonSung&fontSize=90&rotate=25)
 <h1> Hi! My name is YoonSung Kim </h1>
 Email : dbstjd530@naver.com
 
