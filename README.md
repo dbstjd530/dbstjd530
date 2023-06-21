@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello&desc=I'm%20YoonSung&fontSize=50&rotate=20&fontAlign=70)
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=YoonSung's%20GitHub&fontSize=70&rotate=20&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=YoonSung's%20GitHub&fontSize=70&rotate=60&animation=scaleIn)
 
 <h1> Hi! My name is YoonSung Kim </h1>
 Email : dbstjd530@naver.com
