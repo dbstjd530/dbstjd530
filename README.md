@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hello&desc=I'm%20YoonSung&fontSize=50&rotate=20)
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true)
+
 
 
 <h1> Hi! My name is YoonSung Kim </h1>
