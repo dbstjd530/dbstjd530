@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=YoonSung's%20GitHub&fontSize=70&animation=scaleIn)
 
-
-<h1> Hi! My name is YoonSung Kim </h1>
+### Welcome👋
 Email : dbstjd530@naver.com
 
 <h2> I was involved in the project </h2>
