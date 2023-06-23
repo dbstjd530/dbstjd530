@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/MySQL-16A085?style=for-the-badge&logo=MySQL&logoColor=black"/>
     <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=ApacheHadoop&logoColor=black"/>
     <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=Apache Spark&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Docker-E25A1C?style=for-the-badge&logo=Docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-3776AB?style=for-the-badge&logo=Docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Airflow-CA4245?style=for-the-badge&logo=Apache Airflow&logoColor=white"/>    
   </p>
 
